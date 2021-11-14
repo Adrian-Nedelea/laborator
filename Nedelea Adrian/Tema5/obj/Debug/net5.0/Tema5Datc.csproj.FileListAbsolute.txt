@@ -1,0 +1,16 @@
+C:\Users\Nedi\Desktop\Tema5Datc\bin\Debug\net5.0\Tema5Datc.exe
+C:\Users\Nedi\Desktop\Tema5Datc\bin\Debug\net5.0\Tema5Datc.deps.json
+C:\Users\Nedi\Desktop\Tema5Datc\bin\Debug\net5.0\Tema5Datc.runtimeconfig.json
+C:\Users\Nedi\Desktop\Tema5Datc\bin\Debug\net5.0\Tema5Datc.runtimeconfig.dev.json
+C:\Users\Nedi\Desktop\Tema5Datc\bin\Debug\net5.0\Tema5Datc.dll
+C:\Users\Nedi\Desktop\Tema5Datc\bin\Debug\net5.0\ref\Tema5Datc.dll
+C:\Users\Nedi\Desktop\Tema5Datc\bin\Debug\net5.0\Tema5Datc.pdb
+C:\Users\Nedi\Desktop\Tema5Datc\obj\Debug\net5.0\Tema5Datc.csproj.AssemblyReference.cache
+C:\Users\Nedi\Desktop\Tema5Datc\obj\Debug\net5.0\Tema5Datc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nedi\Desktop\Tema5Datc\obj\Debug\net5.0\Tema5Datc.AssemblyInfoInputs.cache
+C:\Users\Nedi\Desktop\Tema5Datc\obj\Debug\net5.0\Tema5Datc.AssemblyInfo.cs
+C:\Users\Nedi\Desktop\Tema5Datc\obj\Debug\net5.0\Tema5Datc.csproj.CoreCompileInputs.cache
+C:\Users\Nedi\Desktop\Tema5Datc\obj\Debug\net5.0\Tema5Datc.dll
+C:\Users\Nedi\Desktop\Tema5Datc\obj\Debug\net5.0\ref\Tema5Datc.dll
+C:\Users\Nedi\Desktop\Tema5Datc\obj\Debug\net5.0\Tema5Datc.pdb
+C:\Users\Nedi\Desktop\Tema5Datc\obj\Debug\net5.0\Tema5Datc.genruntimeconfig.cache
